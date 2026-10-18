@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37806.7 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneSync", "PhoneSync\PhoneSync.csproj", "{664CFA99-060B-4190-837D-84B079767DA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{664CFA99-060B-4190-837D-84B079767DA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{664CFA99-060B-4190-837D-84B079767DA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{664CFA99-060B-4190-837D-84B079767DA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{664CFA99-060B-4190-837D-84B079767DA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9FB7199-B6B3-4205-AB22-AE7B81FB1A27}
+	EndGlobalSection
+EndGlobal
